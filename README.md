@@ -8,7 +8,7 @@
   <a href="mailto:Asadlatif403@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/malik-asad-707b2726b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -69,9 +69,8 @@ including the UI.
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[Real-Time Chat App](https://github.com/asadlatif316/REPO-NAME)** | MERN · Socket.io · Zustand | WebSocket messaging with delivered/read receipts and JWT auth |
+| **[Real-Time Chat App](https://github.com/asadlatif316/WeChat---FULL-STACK-APP)** | MERN · Socket.io · Zustand | WebSocket messaging with delivered/read receipts and JWT auth |
 | **[Jobify](https://github.com/asadlatif316/JOBIFY---MERN-STACK-APP)** | MERN · React Query | Job tracking with role-based admin dashboard and hardened REST APIs |
-| **[EduPortal](https://github.com/asadlatif316/REPO-NAME)** | Node.js · Express · Oracle 19c | Multi-role school portal on Oracle PDB architecture |
 | **[Muneeb Analytics](https://github.com/asadlatif316/Muneeb-Analytics)** | React · TypeScript · Vite | Client site — 90 Lighthouse performance score |
 
 ###
