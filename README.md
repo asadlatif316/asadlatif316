@@ -75,21 +75,6 @@ including the UI.
 
 ###
 
-### 📊 Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asadlatif316&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=en" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadlatif316&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=true&locale=en" alt="top languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=asadlatif316&theme=dracula&hide_border=true" alt="streak" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadlatif316/asadlatif316/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadlatif316/asadlatif316/pacman-output/pacman-contribution-graph.svg">
