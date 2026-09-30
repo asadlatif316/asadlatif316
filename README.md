@@ -75,6 +75,9 @@ including the UI.
 
 ###
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asadlatif316)](https://git.io/streak-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadlatif316/asadlatif316/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadlatif316/asadlatif316/pacman-output/pacman-contribution-graph.svg">
