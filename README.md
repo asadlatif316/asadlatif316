@@ -13,6 +13,9 @@
   </a>
 </p>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=asadlatif316)
+
+
 ###
 
 I build full-stack web applications with React, Node.js, Express, and MongoDB. Most of my work sits on the
