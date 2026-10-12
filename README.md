@@ -22,8 +22,6 @@ I build full-stack web applications with React, Node.js, Express, and MongoDB. M
 backend — REST API design, authentication, and database modeling — though I take projects end to end,
 including the UI.
 
-- 🌱 Learning **PostgreSQL** and deepening my Docker workflow
-- 💼 Shipped a production site for a paying client — React + TypeScript, 90 Lighthouse performance
 - 🎓 BS Information Technology, University of Sialkot — GPA 3.59
 - 📫 **Asadlatif403@gmail.com** · Gujranwala, Pakistan
 
